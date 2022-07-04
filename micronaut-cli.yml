@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: spock
+sourceLanguage: groovy
+buildTool: gradle
+features: [annotation-api, app-name, data, data-jdbc, gradle, groovy, groovy-application, h2, http-client, jackson-databind, jdbc-hikari, kafka, logback, micronaut-build, netty-server, openapi, r2dbc, readme, security-annotations, security-jwt, shade, spock, yaml]
